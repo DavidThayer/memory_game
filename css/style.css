@@ -68,6 +68,8 @@ footer {
 	font-size: 14px;
 	letter-spacing: .08em;
 	font-weight: 500;
+	height: 100px;
+	text-align: center;
 }
 .copyright {
 	font-family: "Raleway";
